@@ -69,7 +69,7 @@
         "tomatophp/filament-developer-gate": "^4.0",
         "spatie/laravel-translation-loader": "^2.8",
         "tomatophp/filament-translation-component": "^4.0",
-        "maatwebsite/excel": "^3.1"
+        "maatwebsite/excel": "^3.1 || ^4.0@dev"
     },
     "require-dev": {
         "laravel/pint": "^1.21",
